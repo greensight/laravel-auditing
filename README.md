@@ -1,5 +1,6 @@
 # Laravel Auditing
 
+`Deprecated, use https://github.com/ensi-platform/laravel-auditing instead`
 Opiniated fork of [owen-it/laravel-auditing](https://github.com/owen-it/laravel-auditing)
 
 ## Установка
